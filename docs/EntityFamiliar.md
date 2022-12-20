@@ -54,11 +54,6 @@ ___
 #### void FollowPosition ( [Vector](Vector.md) Pos ) {: .copyable aria-label='Functions' }
 
 ___
-### Get·Orbit·Distance () {: aria-label='Functions' }
-[ ](#){: .static .tooltip .badge } [ ](#){: .abrep .tooltip .badge }
-#### static [Vector](Vector.md) GetOrbitDistance ( int Layer ) {: .copyable aria-label='Functions' }
-
-___
 ### Get·Orbit·Position () {: aria-label='Functions' }
 [ ](#){: .abrep .tooltip .badge }
 #### [Vector](Vector.md) GetOrbitPosition ( [Vector](Vector.md) Pos ) {: .copyable aria-label='Functions' }
