@@ -8,7 +8,7 @@ This page needs some content. You can contribute to it using the Edit Button!
 
 **Resource-Folder**{: .xmlInfo }: Using this file in a resource folder of a mod is not tested yet.
 
-**Content-Folder**{: .xmlInfo }: Using this file in a content folder of a mod is not tested yet.
+**Content-Folder**{: .xmlInfo .green}: Using this file in a content folder of a mod will add items to item pools.
 
 
 | Variable-Name | Possible Values | Description |
